@@ -233,8 +233,8 @@
     <javascript-doc_copy-resources-phase>pre-site</javascript-doc_copy-resources-phase>
 
     <!-- Node and npm root repositoryies -->
-    <nodeDownloadRoot>http://nexus.pentaho.org/repository/proxy-nodejs-generic/</nodeDownloadRoot>
-    <npmDownloadRoot>http://nexus.pentaho.org/repository/group-npm/npm/-/</npmDownloadRoot>
+    <nodeDownloadRoot>http://orl-jfrog-lb.pentaho.net/artifactory/proxy-nodejs-generic/</nodeDownloadRoot>
+    <npmDownloadRoot>http://orl-jfrog-lb.pentaho.net/artifactory/group-npm/npm/-/</npmDownloadRoot>
 
     <pentaho.resolve.repo>http://nexus.pentaho.org/content/groups/omni/</pentaho.resolve.repo>
     <!-- No default repository URL deployments, these must be defined at build-time -->
